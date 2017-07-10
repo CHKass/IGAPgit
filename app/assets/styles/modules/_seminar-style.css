@@ -46,6 +46,10 @@
 	padding-right:8px;
 }
 
+.col2 p {
+	line-height:1.2;
+}
+
 .indent {
 	padding-left:24px;
 }
