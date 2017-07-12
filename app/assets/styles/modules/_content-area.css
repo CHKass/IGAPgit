@@ -36,6 +36,27 @@
 	}
 }
 
+.text-name {
+	color:$mainFind;
+	border-top:1px solid $mainFind;
+	padding-top:6px;
+	font-size:130%;
+	font-weight:300;
+	cursor:pointer;
+}
+
+.info-text {
+	padding-left:10px;
+}
+
+.find-subhead {
+	font-weight:normal;
+	font-size:150%;
+	color:#000;
+	padding-bottom:5px;
+	margin-bottom:5px;
+}
+
 .body-text {
 	font-size:100%;
 	font-weight:500;

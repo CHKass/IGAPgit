@@ -829,6 +829,27 @@ header p {
   color:#888919;
 }
 
+.text-name {
+	color:#35650d;
+	border-top:1px solid #35650d;
+	padding-top:6px;
+	font-size:130%;
+	font-weight:300;
+	cursor:pointer;
+}
+
+.info-text {
+	padding-left:10px;
+}
+
+.find-subhead {
+	font-weight:normal;
+	font-size:150%;
+	color:#000;
+	padding-bottom:5px;
+	margin-bottom:5px;
+}
+
 .body-text {
 	font-size:100%;
 	font-weight:500;
