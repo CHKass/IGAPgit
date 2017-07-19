@@ -11,12 +11,12 @@
 .hometext {
 	color:#666;
 	font-size:190%;
-	margin-top:-4px;
 	font-weight:300;
-	line-height:2.2rem;
+	margin-top:-4px;	
 
 	&--find {
 		color:$mainFind;
+		margin-bottom:40px;
 	}
 
 	&--seminar {
@@ -34,10 +34,6 @@
 	&--contact {
 		color:$mainHome;
 	}
-}
-
-.home-intro p {
-	line-height:4.2rem;
 }
 
 .text-name {
@@ -177,7 +173,11 @@
 	font-weight:300;
 	margin-bottom:5px;
 	}
-	
+
+.col-greyblue p {
+	line-height:1.4;
+	}
+
 .col-greyblue p a {
 	color:#fff;
 	text-decoration:none;

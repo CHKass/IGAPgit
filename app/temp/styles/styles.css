@@ -804,13 +804,13 @@ header p {
 .hometext {
 	color:#666;
 	font-size:190%;
-	margin-top:-4px;
 	font-weight:300;
-	line-height:2.2rem;
+	margin-top:-4px;
 }
 
 .hometext--find {
   color:#35650d;
+  margin-bottom:40px;
 }
 
 .hometext--seminar {
@@ -827,10 +827,6 @@ header p {
 
 .hometext--contact {
   color:#888919;
-}
-
-.home-intro p {
-	line-height:4.2rem;
 }
 
 .text-name {
@@ -969,6 +965,10 @@ header p {
 	color:#fff;
 	font-weight:300;
 	margin-bottom:5px;
+	}
+
+.col-greyblue p {
+	line-height:1.4;
 	}
 
 .col-greyblue p a {
