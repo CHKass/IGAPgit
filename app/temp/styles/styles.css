@@ -1357,6 +1357,7 @@ header p {
 .det-pub {
 	font-weight:bold;
 	color:#000;
+	padding-top:3px;
 	margin-bottom:3px;
 }
 
