@@ -52,8 +52,20 @@
 	margin-bottom:3px;
 }
 
+.bib2 {
+	font-size:90%;
+	font-weight:normal;
+	color:#000;
+	padding-left:6px;
+	margin-bottom:4px;
+}
+
 .course-spacer {
 	padding:10px;
+}
+
+.white-link {
+	color:#fff;
 }
 
 .col2 p dfn {
