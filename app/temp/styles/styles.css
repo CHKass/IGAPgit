@@ -1359,6 +1359,14 @@ header p {
 	margin-bottom:0;
 }
 
+.tita {
+	margin-top:0px;
+	font-weight:bold;
+	color:#970635;
+	padding-top:6px;
+	margin-bottom:0;
+}
+
 .tit-pub {
 	margin-top:0px;
 	font-weight:bold;
