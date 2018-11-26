@@ -856,6 +856,12 @@ header p {
 	line-height:1.1rem;
 }
 
+.super {
+	font-size:80%;
+	-ms-flex-line-pack:top;
+	    align-content:top;
+}
+
 .address {
 	font-size:120%;
 	line-height:.6rem;
