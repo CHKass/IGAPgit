@@ -52,7 +52,23 @@
 	color:#000;
 	margin-bottom:3px;
 }
-
+.det-red {
+	font-weight:bold;
+	color:red;
+	margin-bottom:3px;
+}
+.det-white {
+	font-size:14px;
+	font-weight:normal;
+	color:#fff;
+	margin-bottom:3px;
+}
+.news-flash {
+	font-size:24px;
+	color:red;
+	font-weight:300;
+	margin-bottom:5px;
+}
 .bib {
 	font-size:90%;
 	font-weight:normal;
