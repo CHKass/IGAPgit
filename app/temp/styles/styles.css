@@ -944,6 +944,28 @@ header p {
 	font-size:16px;
 }
 
+.col-aut {
+	background-color:#C36;
+	border-radius:5px;
+	padding:8px;
+	box-sizing:border-box;
+}
+
+.col-aut h2 {
+	color:#fff;
+	font-weight:300;
+	font-size:16px;
+	box-sizing:border-box;
+}
+
+.col-aut p {
+	color:#000;
+	font-weight:300;
+	font-size:16px;
+	padding-top:4px;
+	margin-bottom:5px;
+}
+
 .col1 {
 	width:20.3%;
 	float:left;
