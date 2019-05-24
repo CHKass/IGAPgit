@@ -954,7 +954,7 @@ header p {
 .col-aut h2 {
 	color:#fff;
 	font-weight:300;
-	font-size:16px;
+	font-size:18px;
 	box-sizing:border-box;
 }
 
@@ -1015,6 +1015,39 @@ header p {
 	color:#e23b30;
 	text-decoration:none;
 	}
+
+.box-title {
+	font-size:20px;
+	font-weight:500;
+	color:#fff;
+	border-bottom:2px solid #fff;
+	padding-bottom:5px;
+	margin-top:0;
+	margin-bottom:5px;
+}
+
+.prov-tit {
+	font-size:.9rem;
+	font-weight:500;
+	line-height:1rem;
+	color:#970635;
+	margin-bottom:0;
+}
+
+.prov-aut {
+	font-size:.9rem;
+	font-weight:500;
+	line-height:1rem;
+	color:#000;
+	margin-bottom:0;
+}
+
+.prov-dat {
+	font-size:14px;
+	font-weight:300;
+	color:#000;
+	padding-bottom:5px;
+}
 
 .box {
 	background-color:#C36;
