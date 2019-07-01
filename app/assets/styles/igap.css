@@ -37,6 +37,13 @@ p {
 	padding-top:6px;
 	margin-bottom:0;
 }
+.tit-indent {
+	margin-top:0px;
+	font-weight:bold;
+	color:#970635;
+	padding-top:2px;
+	margin-bottom:0;
+}
 
 .aut {
 	font-weight:bold;
